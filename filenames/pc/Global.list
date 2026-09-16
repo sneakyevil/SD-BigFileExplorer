@@ -43,3 +43,8 @@ Data\Global\WTHKTexturePack.perm.bin
 Data\Global\WTHKTexturePack.temp.bin
 Data\Global\XMLCache\XML_CacheList.bin
 Data\Global\XMLCache\XML_CacheList_MetaData.bin
+data\..\data\global\infoticker.perm.bin
+data\..\data\global\infoticker.temp.bin
+data\global\camera.temp.bin
+data\global\camera.perm.bin
+data\scripts\classes.sym
