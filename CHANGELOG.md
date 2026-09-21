@@ -14,27 +14,22 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.1.0] - 2026-09-21
 
 ### Added
-
 - Option to find files with missing filenames.
 - Archive option to generate a list of names.
 
 ### Changed
-
 - Handling of the `.unknown_name` folder and its files to prevent certain actions.
 
 ## [1.0.1] - 2026-09-21
 
 ### Added
-
 - Added an `About` menu item.
 - Added `Ctrl + E` as a shortcut for unpacking selected files.
 
 ### Changed
-
 - File name lists are now loaded recursively, allowing them to be placed in subfolders.
 
 ## [1.0.0] - 2026-09-15
 
 ### Added
-
 - First release.
