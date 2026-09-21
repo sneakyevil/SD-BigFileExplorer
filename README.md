@@ -36,6 +36,7 @@ Compatibility may vary between individual builds and archives.
 This repository is primarily used for:
 
 - [Releases](https://github.com/sneakyevil/SD-BigFileExplorer/releases)
+- [Changelog](CHANGELOG.md)
 - [Issue Tracker](https://github.com/sneakyevil/SD-BigFileExplorer/issues)
 - [Filename Lists](filenames/pc/) (current PC/Steam release; other builds live in their own `filenames/<version>/` folder)
 
